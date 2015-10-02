@@ -1,0 +1,36 @@
+@import "partials/_settings";   // settings must be before all JS files, whih are linked to by "foundation"
+@import "foundation";
+@import "partials/_reset";
+@import "partials/_clearfix";
+
+.row > .columns {
+  padding: 16px;
+  text-align: center;
+  color: white;
+}
+
+div.columns > div {
+  padding: 64px;
+}
+
+#mod1 {
+  background-color: green;
+}
+#mod2 {
+  background-color: purple;
+}
+#mod3 {
+  background-color: blue;
+}
+#mod4 {
+  background-color: navy;
+}
+#mod5 {
+  background-color: aqua;
+}
+#mod6 {
+  background-color: fuchsia;
+}
+#mod7 {
+  background-color: lime;
+}

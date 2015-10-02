@@ -1,0 +1,22 @@
+{
+  "name": "foundation_grid",
+  "version": "0.0.0",
+  "authors": [
+    "franpham <franpham@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "foundation": "~5.5.2"
+  }
+}
